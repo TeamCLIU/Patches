@@ -1,2 +1,2 @@
 # Patches
-A collection of modifications for ZombsRoyale's desktop client and website.
+A collection of modifications for Zombs Royale's desktop client and website.
